@@ -1,0 +1,12 @@
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\bin\Debug\Assignment12.xml
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.vbproj.AssemblyReference.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.Form1.resources
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.Resources.resources
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.vbproj.GenerateResource.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.vbproj.CoreCompileInputs.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.xml
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment12\Assignment12\obj\Debug\Assignment12.pdb

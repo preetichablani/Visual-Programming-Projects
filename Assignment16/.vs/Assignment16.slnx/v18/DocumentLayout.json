@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\assignment16\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|solutionrelative:assignment16\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\assignment16\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|solutionrelative:assignment16\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|c:\\users\\preet\\onedrive\\documents\\preeti vb\\assignment16\\assignment16\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F7A0CD9D-1B88-4A50-B924-085FD04BE8E7}|Assignment16\\Assignment16.vbproj|solutionrelative:assignment16\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Module1.vb",
+              "RelativeDocumentMoniker": "Assignment16\\Module1.vb",
+              "ToolTip": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Module1.vb",
+              "RelativeToolTip": "Assignment16\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-20T10:33:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment16\\Form1.vb",
+              "ToolTip": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Form1.vb",
+              "RelativeToolTip": "Assignment16\\Form1.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-20T10:20:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment16\\Form1.vb",
+              "ToolTip": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment16\\Assignment16\\Form1.vb [Design]",
+              "RelativeToolTip": "Assignment16\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-20T10:11:32.43Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

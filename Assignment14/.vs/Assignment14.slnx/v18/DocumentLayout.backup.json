@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF721E-7B5B-4618-A848-D7AB0EA69680}|Assignment14\\Assignment14.vbproj|c:\\users\\preet\\onedrive\\documents\\preeti vb\\assignment14\\assignment14\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7FAF721E-7B5B-4618-A848-D7AB0EA69680}|Assignment14\\Assignment14.vbproj|solutionrelative:assignment14\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF721E-7B5B-4618-A848-D7AB0EA69680}|Assignment14\\Assignment14.vbproj|C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\assignment14\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7FAF721E-7B5B-4618-A848-D7AB0EA69680}|Assignment14\\Assignment14.vbproj|solutionrelative:assignment14\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\Assignment14\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment14\\Form1.vb",
+              "ToolTip": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\Assignment14\\Form1.vb",
+              "RelativeToolTip": "Assignment14\\Form1.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-22T10:09:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\Assignment14\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment14\\Form1.vb",
+              "ToolTip": "C:\\Users\\preet\\OneDrive\\Documents\\preeti vb\\Assignment14\\Assignment14\\Form1.vb [Design]",
+              "RelativeToolTip": "Assignment14\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-22T09:47:51.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

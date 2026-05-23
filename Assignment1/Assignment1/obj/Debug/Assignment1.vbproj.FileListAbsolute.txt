@@ -1,0 +1,20 @@
+D:\ashuvb.net\Questions\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\ashuvb.net\Questions\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\ashuvb.net\Questions\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\ashuvb.net\Questions\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\ashuvb.net\Questions\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\preeti vb\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\preeti vb\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\preeti vb\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\preeti vb\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+D:\preeti vb\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache

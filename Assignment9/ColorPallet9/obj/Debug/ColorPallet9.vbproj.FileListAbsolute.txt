@@ -1,0 +1,22 @@
+D:\vbnet\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.exe.config
+D:\vbnet\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.exe
+D:\vbnet\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.pdb
+D:\vbnet\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.xml
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Form1.resources
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Resources.resources
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.vbproj.GenerateResource.Cache
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.exe
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.xml
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.pdb
+D:\vbnet\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Form2.resources
+D:\preeti vb\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.exe.config
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.exe
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.xml
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.pdb
+D:\preeti vb\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.exe
+D:\preeti vb\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.pdb
+D:\preeti vb\ColorPallet9\ColorPallet9\bin\Debug\ColorPallet9.xml
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Form1.resources
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Form2.resources
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.Resources.resources
+D:\preeti vb\ColorPallet9\ColorPallet9\obj\Debug\ColorPallet9.vbproj.GenerateResource.Cache

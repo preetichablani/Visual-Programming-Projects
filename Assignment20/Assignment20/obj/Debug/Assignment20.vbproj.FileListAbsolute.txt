@@ -1,0 +1,12 @@
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\bin\Debug\Assignment20.xml
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.vbproj.AssemblyReference.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.Form1.resources
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.Resources.resources
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.vbproj.GenerateResource.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.vbproj.CoreCompileInputs.cache
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.xml
+C:\Users\preet\OneDrive\Documents\preeti vb\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
