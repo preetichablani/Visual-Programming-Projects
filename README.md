@@ -20,25 +20,45 @@ Technologies Used
 Assignments
 
 Assignment No.| Project Title
+
 Assignment 1| Button Hover Effect
+
 Assignment 2| Student Marks Calculator
+
 Assignment 3| Electricity Bill Generator
+
 Assignment 4| Stopwatch Application
+
 Assignment 5| Array & Key Value Calculator
+
 Assignment 6| Font Size, Font Family, Background Color & Foreground Color
+
 Assignment 7| Student Personal Details Form
+
 Assignment 8| List Box Operations
+
 Assignment 9| Color Palette Application
+
 Assignment 10| Toolbox Demonstration
+
 Assignment 11| Notepad Application
+
 Assignment 12| ATM System
+
 Assignment 13| Gallery Slider
+
 Assignment 14| Webpage Design
+
 Assignment 15| Insert, Update, Delete & Show Operations
+
 Assignment 16| State, City & Pin Code Management
+
 Assignment 17| Progress Bar Application
+
 Assignment 18| Employee Details Management
+
 Assignment 19| Employee Details Management System
+
 Assignment 20| Password Strength Checker
 
 ---
