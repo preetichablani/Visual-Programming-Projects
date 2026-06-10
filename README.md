@@ -1,4 +1,4 @@
-# Visual-Programming_Projects
+# Visual-Programming-Projects
 
 Overview
 
@@ -14,6 +14,21 @@ Technologies Used
 - Visual Studio
 - Microsoft Access / SQL Database
 - .NET Framework
+
+---
+
+ Features
+
+- User-Friendly Graphical Interface
+- Event-Driven Programming
+- Form Controls and Validation
+- CRUD Operations
+- Database Connectivity
+- Color and Font Customization
+- Real-Time Progress Tracking
+- Password Validation System
+- Student and Employee Management
+- Practical VB.NET Applications
 
 ---
 
@@ -78,6 +93,19 @@ Through these assignments, the following concepts were implemented:
 - Progress Tracking
 - Authentication & Security Concepts
 - Data Management Systems
+
+---
+
+ Skills Demonstrated
+
+- Visual Basic .NET Programming
+- Windows Forms Development
+- Object-Oriented Programming Concepts
+- Database Management
+- GUI Design
+- Data Validation
+- Debugging and Testing
+- Problem Solving
 
 ---
 
